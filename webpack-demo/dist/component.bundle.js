@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{9:function(n,e,t){"use strict";function o(){Promise.resolve().then(t.t.bind(null,0,7)).then(({default:n})=>{let e=document.createElement("div");return e.innerHTML=n.join(["Component"]," "),e}).catch(n=>"An error occur").then(n=>{document.body.appendChild(n)})}t.r(e),t.d(e,"default",function(){return o})}}]);
